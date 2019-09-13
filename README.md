@@ -11,7 +11,7 @@ Inspired by my BatchWatermark script
 ## Instructions:
   - Drag script in a folder of your choice
   - Make sure you have installed Imagemagick linked below
-  - Run the script (I use the Windows Subsystem for Linux (WSL) command prompt) : `/PATH/PizzaGenertor.sh`.
+  - Run the script (I use the Windows Subsystem for Linux (WSL) command prompt) : `/PATH/PizzaGenerator.sh`.
   - The script should generate 2 files: PIZZAS and INGREDIENTS.
   - Place your pizza bases in PIZZAS
   - Place ingredients in INGREDIENTS
