@@ -1,5 +1,5 @@
 #!/bin/bash
-# BatchWatermark
+# Inspired by my BatchWatermark script
 #Shell script that applies a batch of ingredients to their respective random pizza bases.
 
 ## Description:
